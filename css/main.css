@@ -1,0 +1,105 @@
+body {
+	display: block;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	background: #F6F6F6
+}
+
+h1 {
+	position: absolute;
+	width: 468px;
+	height: 124px;
+	left: 296px;
+	top: 112px;
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 44px;
+	text-align: center;
+	color: #09807E;
+}
+h2 {
+	position: absolute;
+	width: 580px;
+	height: 191px;
+	left: 147px;
+	top: 310px;
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 28px;
+	line-height: 36px;
+	text-align: center;
+	color: #000000,
+}
+h3 {
+	position: absolute;
+	width: 540px;
+	height: 191px;
+	left: 177px;
+	top: 340px;
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 28px;
+	line-height: 36px;
+	text-align: center;
+	color: #000000,
+}
+h4 {
+	position: absolute;
+	width: 580px;
+	height: 191px;
+	left: 147px;
+	top: 434px;
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 28px;
+	line-height: 36px;
+	text-align: center;
+	color: #000000,
+}
+.colortext {
+	color: #09807E;
+}
+button:hover { 
+	background: rgba(12, 100, 102, 1); 
+	inset-inline: 20 20px;
+	animation: bounce 7s;
+}
+button:active {
+  background: rgba(220, 242, 235, 1);
+  box-shadow: 3 20px rgba(108, 179, 181, 1);
+  inset-inline: 20 20px;
+}
+h5 {
+	position: absolute;
+	width: 568px;
+	height: 39px;
+	left: 150px;
+	top: 724px;
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 19px;
+	color: #000000;
+}
+h6 {
+	position: absolute;
+width: 324px;
+height: 40px;
+left: 1112px;
+top: 714px;
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+}
